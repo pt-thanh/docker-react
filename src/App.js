@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className='App-intro'>
-        ping ping...
+        Baby Bok Choy.
       </p>
     </div>
   );
